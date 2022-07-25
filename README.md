@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rituraj Raman
 #### I am an ML Enthusiast and Frontend Web Developer
-![I am an ML Enthusiast and Frontend Web Developer](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
+![I am an ML Enthusiast and Frontend Web Developer]<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
