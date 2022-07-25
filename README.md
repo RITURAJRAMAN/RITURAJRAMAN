@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on ML projects
-- 📫 How to reach me: DM on my Social Medias - Check it out here: http://riturajraman.me
+- 📫 How to reach me:- DM on my Social handles - Check it out here: http://riturajraman.me
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a sleepy person 😅
 
