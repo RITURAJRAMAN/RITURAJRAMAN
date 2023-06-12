@@ -19,6 +19,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.C0KA02FcfjF8XTPWtKzHgQHaHa?pid=ImgDet&rs=1" alt="GitHub" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"> <img src="https://avatars1.githubusercontent.com/u/21976086?s=400&v=4" alt="GitHub" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.tekenable.ie/wp-content/uploads/2019/06/azure_logo_794_new.png" alt="Microsoft Azure" width="40" height="40"/></a>
 </p>
