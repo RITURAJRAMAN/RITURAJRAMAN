@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Rituraj Raman
-#### I am an ML Enthusiast and Frontend Web Developer
+#### I am a ML Enthusiast and Frontend Web Developer
 
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
