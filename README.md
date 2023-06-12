@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> <img src="https://florencefennel.co.in/image/cache/catalog/florencefennel/Machine--Learning-1000x1000.jpg" alt="python" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> <img src="https://banner2.kisspng.com/20180425/zke/kisspng-artificial-intelligence-deep-learning-machine-lear-5ae0d5475822e1.095237781524684103361.jpg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> <img src="https://logonoid.com/images/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> </a>
