@@ -80,22 +80,22 @@ I build intelligent software that balances ML depth with real-world usability.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RITURAJRAMAN&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RITURAJRAMAN&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RITURAJRAMAN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RITURAJRAMAN&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RITURAJRAMAN&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=RITURAJRAMAN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RITURAJRAMAN&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RITURAJRAMAN&layout=compact&theme=tokyonight&hide_border=true" />
-    <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITURAJRAMAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RITURAJRAMAN&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RITURAJRAMAN&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="34%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RITURAJRAMAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RITURAJRAMAN&theme=tokyonight" />
@@ -140,9 +140,9 @@ I build intelligent software that balances ML depth with real-world usability.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RITURAJRAMAN&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RITURAJRAMAN&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=RITURAJRAMAN&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=RITURAJRAMAN&theme=algolia&column=6&margin-w=8&margin-h=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=RITURAJRAMAN&theme=algolia&column=6&margin-w=8&margin-h=8" />
+    <img width="95%" src="https://github-trophies.vercel.app/?username=RITURAJRAMAN&theme=algolia&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
   </picture>
 </p>
 
@@ -159,7 +159,7 @@ I build intelligent software that balances ML depth with real-world usability.
 ## Extended Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/RITURAJRAMAN?template=terminal&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&config.timezone=Asia%2FKolkata" width="95%" alt="Extended GitHub metrics" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="95%" alt="Extended GitHub metrics" />
 </p>
 
 ---
