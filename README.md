@@ -103,22 +103,9 @@ I build intelligent software that balances ML depth with real-world usability.
     <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RITURAJRAMAN&theme=tokyonight" alt="Repos per language" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RITURAJRAMAN&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RITURAJRAMAN&theme=tokyonight" />
-    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RITURAJRAMAN&theme=tokyonight" alt="Most commit language" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RITURAJRAMAN&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RITURAJRAMAN&theme=tokyonight" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RITURAJRAMAN&theme=tokyonight" alt="Summary stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RITURAJRAMAN&theme=tokyonight&utcOffset=5.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RITURAJRAMAN&theme=tokyonight&utcOffset=5.5" />
-    <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RITURAJRAMAN&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RITURAJRAMAN&theme=tokyonight" alt="Summary stats" />
   </picture>
 </p>
 
@@ -144,22 +131,6 @@ I build intelligent software that balances ML depth with real-world usability.
     <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=RITURAJRAMAN&theme=algolia&column=6&margin-w=8&margin-h=8" />
     <img width="95%" src="https://github-trophies.vercel.app/?username=RITURAJRAMAN&theme=algolia&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
   </picture>
-</p>
-
----
-
-## Contribution Snapshot
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RITURAJRAMAN&limit=6&theme=tokyonight&combine_all_yearly_contributions=true" width="95%" alt="GitHub contribution snapshot" />
-</p>
-
----
-
-## Extended Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RITURAJRAMAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="95%" alt="Extended GitHub metrics" />
 </p>
 
 ---
