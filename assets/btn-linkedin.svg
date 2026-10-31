@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="44" viewBox="0 0 156 44" role="img" font-family="ui-monospace,SFMono-Regular,JetBrains Mono,Menlo,Consolas,Liberation Mono,monospace">
+<defs></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<rect x="1" y="1" width="154" height="42" rx="21" fill="#3b82f6" fill-opacity=".12" stroke="#3b82f6" stroke-width="1.5"/>
+<g transform="translate(18 10) scale(.92)" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/></g>
+<text x="52" y="27" font-size="15" font-weight="600" fill="#e5edff">LinkedIn</text>
+
+</svg>

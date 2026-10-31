@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="392" viewBox="0 0 1000 392" role="img" font-family="ui-monospace,SFMono-Regular,JetBrains Mono,Menlo,Consolas,Liberation Mono,monospace">
+<defs></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.r{animation:show .35s backwards}@keyframes show{from{opacity:0}to{opacity:1}}
+</style>
+
+<rect x="1" y="1" width="998" height="390" rx="14" fill="#111827" stroke="#1f2a44" stroke-width="2"/>
+<path d="M1 15a14 14 0 0 1 14-14h970a14 14 0 0 1 14 14v34H1z" fill="#0f172a"/>
+<circle cx="30" cy="26" r="7" fill="#ff5f56"/><circle cx="54" cy="26" r="7" fill="#ffbd2e"/><circle cx="78" cy="26" r="7" fill="#27c93f"/>
+<text x="500" y="31" text-anchor="middle" font-size="14" fill="#8b9bb8">rituraj@ai-lab: ~</text>
+<text class="r" style="animation-delay:0.2s" x="36" y="104" font-size="17" xml:space="preserve"><tspan fill="#34d399" xml:space="preserve">$ </tspan><tspan fill="#e5edff" xml:space="preserve">whoami</tspan></text><text class="r" style="animation-delay:0.9s" x="36" y="132" font-size="17" xml:space="preserve"><tspan fill="#22d3ee" xml:space="preserve">  Rituraj Raman — AI / ML Engineer</tspan></text><text class="r" style="animation-delay:1.6s" x="36" y="160" font-size="17" xml:space="preserve"><tspan fill="#34d399" xml:space="preserve">$ </tspan><tspan fill="#e5edff" xml:space="preserve">cat focus.txt</tspan></text><text class="r" style="animation-delay:2.3s" x="36" y="188" font-size="17" xml:space="preserve"><tspan fill="#a78bfa" xml:space="preserve">  Generative AI · RAG · AI Agents · LLM Applications · Deep Learning</tspan></text><text class="r" style="animation-delay:3.0s" x="36" y="216" font-size="17" xml:space="preserve"><tspan fill="#34d399" xml:space="preserve">$ </tspan><tspan fill="#e5edff" xml:space="preserve">cat approach.txt</tspan></text><text class="r" style="animation-delay:3.7s" x="36" y="244" font-size="17" xml:space="preserve"><tspan fill="#fbbf24" xml:space="preserve">  practical · scalable · production-oriented</tspan></text><text class="r" style="animation-delay:4.4s" x="36" y="272" font-size="17" xml:space="preserve"><tspan fill="#34d399" xml:space="preserve">$ </tspan><tspan fill="#e5edff" xml:space="preserve">ls ~/projects</tspan></text><text class="r" style="animation-delay:5.1s" x="36" y="300" font-size="17" xml:space="preserve"><tspan fill="#f472b6" xml:space="preserve">  llmswitch/   TrueParse/   BugShikari/   NeoLLM/</tspan></text><text class="r" style="animation-delay:5.8s" x="36" y="328" font-size="17" xml:space="preserve"><tspan fill="#34d399" xml:space="preserve">$ </tspan><tspan fill="#e5edff" xml:space="preserve">status --open-to</tspan></text><text class="r" style="animation-delay:6.5s" x="36" y="356" font-size="17" xml:space="preserve"><tspan fill="#34d399" xml:space="preserve">  [OK] GenAI collaborations   [OK] open-source contributions</tspan></text>
+<rect x="36" y="367" width="10" height="19" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+
+</svg>

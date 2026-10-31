@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="44" viewBox="0 0 196 44" role="img" font-family="ui-monospace,SFMono-Regular,JetBrains Mono,Menlo,Consolas,Liberation Mono,monospace">
+<defs></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<rect x="1" y="1" width="194" height="42" rx="21" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-width="1.5"/>
+<g transform="translate(18 10) scale(.92)" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7l-5 5 5 5M17 7l5 5-5 5M14 4l-4 16"/></g>
+<text x="52" y="27" font-size="15" font-weight="600" fill="#e5edff">Repositories</text>
+
+</svg>

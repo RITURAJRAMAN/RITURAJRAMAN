@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" font-family="ui-monospace,SFMono-Regular,JetBrains Mono,Menlo,Consolas,Liberation Mono,monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#1b1747"/><stop offset="1" stop-color="#0b3a52"/></linearGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<rect width="1000" height="280" rx="16" fill="url(#bg)"/>
+<rect width="1000" height="280" rx="16" fill="url(#grid)"/>
+<ellipse cx="500" cy="140" rx="380" ry="120" fill="url(#glow)"/>
+<line x1="80" y1="60" x2="170" y2="120" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><line x1="170" y1="120" x2="120" y2="210" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><line x1="170" y1="120" x2="260" y2="70" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><line x1="880" y1="70" x2="820" y2="150" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><line x1="820" y1="150" x2="930" y2="210" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><line x1="880" y1="70" x2="740" y2="40" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><line x1="820" y1="150" x2="700" y2="230" stroke="#22d3ee" stroke-opacity=".28" stroke-width="1"/><circle cx="80" cy="60" r="4" fill="#22d3ee"><animate attributeName="opacity" values=".25;1;.25" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="170" cy="120" r="4" fill="#a78bfa"><animate attributeName="opacity" values=".25;1;.25" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="120" cy="210" r="4" fill="#34d399"><animate attributeName="opacity" values=".25;1;.25" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="260" cy="70" r="4" fill="#22d3ee"><animate attributeName="opacity" values=".25;1;.25" dur="3.8s" repeatCount="indefinite"/></circle><circle cx="880" cy="70" r="4" fill="#a78bfa"><animate attributeName="opacity" values=".25;1;.25" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="820" cy="150" r="4" fill="#34d399"><animate attributeName="opacity" values=".25;1;.25" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="930" cy="210" r="4" fill="#22d3ee"><animate attributeName="opacity" values=".25;1;.25" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="740" cy="40" r="4" fill="#a78bfa"><animate attributeName="opacity" values=".25;1;.25" dur="3.8s" repeatCount="indefinite"/></circle><circle cx="700" cy="230" r="4" fill="#34d399"><animate attributeName="opacity" values=".25;1;.25" dur="2.0s" repeatCount="indefinite"/></circle>
+<text x="500" y="52" text-anchor="middle" font-size="14" fill="#22d3ee" letter-spacing="3">&lt;/&gt; AI · MACHINE LEARNING · GENERATIVE AI</text>
+<text x="500" y="146" text-anchor="middle" font-size="68" font-weight="700" fill="url(#name)" letter-spacing="1">Rituraj Raman</text>
+<text x="500" y="196" text-anchor="middle" font-size="22" fill="#e5edff">AI / ML Engineer · LLM Systems · RAG &amp; Agents</text>
+<rect x="352" y="222" width="296" height="34" rx="17" fill="#0b1020" fill-opacity=".7" stroke="#22d3ee" stroke-opacity=".5"/>
+<text x="372" y="244" font-size="15" fill="#34d399">$</text>
+<text x="390" y="244" font-size="15" fill="#e5edff">building intelligent software</text>
+<rect x="626" y="232" width="8" height="16" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+
+</svg>

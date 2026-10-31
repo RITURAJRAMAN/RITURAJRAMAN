@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="44" viewBox="0 0 166 44" role="img" font-family="ui-monospace,SFMono-Regular,JetBrains Mono,Menlo,Consolas,Liberation Mono,monospace">
+<defs></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<rect x="1" y="1" width="164" height="42" rx="21" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-width="1.5"/>
+<g transform="translate(18 10) scale(.92)" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></g>
+<text x="52" y="27" font-size="15" font-weight="600" fill="#e5edff">Portfolio</text>
+
+</svg>
